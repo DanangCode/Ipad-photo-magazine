@@ -1,0 +1,858 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PhotoScroller */ = {
+		activeExec = 0;
+		executables = (
+			587052A6138B6F46007399F8 /* PhotoScroller */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 587052A6138B6F46007399F8 /* PhotoScroller */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhotoScroller */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PhotoScroller */,
+		);
+		breakpoints = (
+			582426D4138B7A03004DA5B2 /* ImageScrollView.m:74 */,
+			582426ED138B7CB3004DA5B2 /* TilingView.m:76 */,
+			5824270F138B81B0004DA5B2 /* TilingView.m:75 */,
+		);
+		codeSenseManager = 587052B1138B6F79007399F8 /* Code sense */;
+		executables = (
+			587052A6138B6F46007399F8 /* PhotoScroller */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					691,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327952345;
+			PBXWorkspaceStateSaveDate = 327952345;
+		};
+		perUserProjectItems = {
+			582426B6138B75BF004DA5B2 = 582426B6138B75BF004DA5B2 /* PBXBookmark */;
+			582426B7138B75BF004DA5B2 = 582426B7138B75BF004DA5B2 /* PBXBookmark */;
+			582426B8138B75BF004DA5B2 = 582426B8138B75BF004DA5B2 /* PBXBookmark */;
+			582426FD138B7EAB004DA5B2 = 582426FD138B7EAB004DA5B2 /* PBXTextBookmark */;
+			5824270B138B8193004DA5B2 = 5824270B138B8193004DA5B2 /* PlistBookmark */;
+			5824270C138B8193004DA5B2 = 5824270C138B8193004DA5B2 /* PlistBookmark */;
+			58242717138B8204004DA5B2 = 58242717138B8204004DA5B2 /* PBXTextBookmark */;
+			58242C53138B8CF6004DA5B2 = 58242C53138B8CF6004DA5B2 /* PBXBookmark */;
+			58242C8E138C127A004DA5B2 = 58242C8E138C127A004DA5B2 /* PBXBookmark */;
+			58242C8F138C127A004DA5B2 = 58242C8F138C127A004DA5B2 /* PBXBookmark */;
+			58242C90138C127A004DA5B2 = 58242C90138C127A004DA5B2 /* PBXBookmark */;
+			58242C91138C127A004DA5B2 = 58242C91138C127A004DA5B2 /* PBXBookmark */;
+			58242C92138C127A004DA5B2 = 58242C92138C127A004DA5B2 /* PBXBookmark */;
+			58242C93138C127A004DA5B2 = 58242C93138C127A004DA5B2 /* PBXBookmark */;
+			58242C94138C127A004DA5B2 = 58242C94138C127A004DA5B2 /* PBXBookmark */;
+			58242C95138C127A004DA5B2 = 58242C95138C127A004DA5B2 /* PBXBookmark */;
+			58242C96138C127A004DA5B2 = 58242C96138C127A004DA5B2 /* PBXBookmark */;
+			58242C97138C127A004DA5B2 = 58242C97138C127A004DA5B2 /* PBXBookmark */;
+			58242C98138C127A004DA5B2 = 58242C98138C127A004DA5B2 /* PBXBookmark */;
+			58242C99138C127A004DA5B2 = 58242C99138C127A004DA5B2 /* PBXBookmark */;
+			58242C9A138C127A004DA5B2 = 58242C9A138C127A004DA5B2 /* PBXBookmark */;
+			58242C9B138C127A004DA5B2 = 58242C9B138C127A004DA5B2 /* PBXBookmark */;
+			58242C9C138C127A004DA5B2 = 58242C9C138C127A004DA5B2 /* PBXBookmark */;
+			58242C9D138C127A004DA5B2 = 58242C9D138C127A004DA5B2 /* PBXBookmark */;
+			58242C9E138C127A004DA5B2 = 58242C9E138C127A004DA5B2 /* PBXBookmark */;
+			58242C9F138C127A004DA5B2 = 58242C9F138C127A004DA5B2 /* PBXBookmark */;
+			58242CA0138C127A004DA5B2 = 58242CA0138C127A004DA5B2 /* PBXBookmark */;
+			58242CA1138C127A004DA5B2 = 58242CA1138C127A004DA5B2 /* PBXBookmark */;
+			58242CA2138C127A004DA5B2 = 58242CA2138C127A004DA5B2 /* PBXBookmark */;
+			58242CA3138C127A004DA5B2 = 58242CA3138C127A004DA5B2 /* PBXBookmark */;
+			58242CA4138C127A004DA5B2 = 58242CA4138C127A004DA5B2 /* PBXBookmark */;
+			58242CA5138C127A004DA5B2 = 58242CA5138C127A004DA5B2 /* PBXBookmark */;
+			58242CA6138C127A004DA5B2 = 58242CA6138C127A004DA5B2 /* PBXBookmark */;
+			58242CA7138C127A004DA5B2 = 58242CA7138C127A004DA5B2 /* PBXBookmark */;
+			58242CA8138C127A004DA5B2 = 58242CA8138C127A004DA5B2 /* PBXBookmark */;
+			58242CA9138C127A004DA5B2 = 58242CA9138C127A004DA5B2 /* PBXBookmark */;
+			58242CAA138C127A004DA5B2 = 58242CAA138C127A004DA5B2 /* PBXBookmark */;
+			58242CAB138C127A004DA5B2 = 58242CAB138C127A004DA5B2 /* PBXBookmark */;
+			58242CAC138C127A004DA5B2 = 58242CAC138C127A004DA5B2 /* PBXBookmark */;
+			58242CAD138C127A004DA5B2 = 58242CAD138C127A004DA5B2 /* PBXBookmark */;
+			58242CAE138C127A004DA5B2 = 58242CAE138C127A004DA5B2 /* PBXBookmark */;
+			58242CAF138C127A004DA5B2 = 58242CAF138C127A004DA5B2 /* PBXBookmark */;
+			58242CB0138C127A004DA5B2 = 58242CB0138C127A004DA5B2 /* PBXBookmark */;
+			58242CB1138C127A004DA5B2 = 58242CB1138C127A004DA5B2 /* PBXTextBookmark */;
+			58242CB2138C127A004DA5B2 = 58242CB2138C127A004DA5B2 /* PBXTextBookmark */;
+			58242CB3138C127A004DA5B2 = 58242CB3138C127A004DA5B2 /* PBXTextBookmark */;
+			58242CB4138C127A004DA5B2 = 58242CB4138C127A004DA5B2 /* PBXTextBookmark */;
+			58242CB6138C127A004DA5B2 = 58242CB6138C127A004DA5B2 /* PBXTextBookmark */;
+			58242E3A138C27CC004DA5B2 = 58242E3A138C27CC004DA5B2 /* PBXTextBookmark */;
+			587052B9138B6FF2007399F8 = 587052B9138B6FF2007399F8 /* PBXBookmark */;
+			587052BB138B6FF2007399F8 = 587052BB138B6FF2007399F8 /* PBXBookmark */;
+			587052BC138B6FF2007399F8 = 587052BC138B6FF2007399F8 /* PBXBookmark */;
+			587052BE138B6FF2007399F8 = 587052BE138B6FF2007399F8 /* PBXBookmark */;
+			589DB9D5138C27DC006FF003 /* PBXTextBookmark */ = 589DB9D5138C27DC006FF003 /* PBXTextBookmark */;
+			589DBA20138C2EE7006FF003 /* PlistBookmark */ = 589DBA20138C2EE7006FF003 /* PlistBookmark */;
+			589DBA21138C2EE7006FF003 /* PBXTextBookmark */ = 589DBA21138C2EE7006FF003 /* PBXTextBookmark */;
+			589DBA22138C2EE7006FF003 /* PBXTextBookmark */ = 589DBA22138C2EE7006FF003 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 587052B0138B6F79007399F8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	582426B0138B74A9004DA5B2 /* SexySuperhero-1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/Full Images/SexySuperhero-1.jpg";
+		sourceTree = "<absolute>";
+	};
+	582426B6138B75BF004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAFF1219E32D00415299 /* Icon@2x.png */;
+	};
+	582426B7138B75BF004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAFD1219E32D00415299 /* Icon-Small@2x.png */;
+	};
+	582426B8138B75BF004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAFA1219E32D00415299 /* Icon-72.png */;
+	};
+	582426D4138B7A03004DA5B2 /* ImageScrollView.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9FA8E1591219E42F00415299 /* ImageScrollView.m */;
+		functionName = "-displayImage:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		location = PhotoScroller;
+		modificationTime = 327909820.109709;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	582426D8138B7A0B004DA5B2 /* ImageScrollView.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ImageScrollView.m;
+		path = /Users/jaspergregory/projects/xcode/Voluptuousity/Classes/ImageScrollView.m;
+		sourceTree = "<absolute>";
+	};
+	582426ED138B7CB3004DA5B2 /* TilingView.m:76 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9FA8E15D1219E42F00415299 /* TilingView.m */;
+		functionName = "-tileForScale:row:col:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 76;
+		location = PhotoScroller;
+		modificationTime = 327909906.513941;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	582426FD138B7EAB004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 582426FE138B7EAB004DA5B2 /* TilingView.m */;
+		rLen = 0;
+		rLoc = 19;
+		rType = 1;
+	};
+	582426FE138B7EAB004DA5B2 /* TilingView.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = TilingView.m;
+		path = /Users/jaspergregory/projects/xcode/Voluptuousity/Classes/TilingView.m;
+		sourceTree = "<absolute>";
+	};
+	5824270B138B8193004DA5B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jaspergregory/Projects/xcode/Voluptuousity/PhotoScroller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	5824270C138B8193004DA5B2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CB031AE611B9507100B70177 /* ImageData.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/jaspergregory/Projects/xcode/Voluptuousity/ImageData.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	5824270F138B81B0004DA5B2 /* TilingView.m:75 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9FA8E15D1219E42F00415299 /* TilingView.m */;
+		functionName = "-tileForScale:row:col:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 75;
+		location = PhotoScroller;
+		modificationTime = 327909880.872906;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	58242717138B8204004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 582426D8138B7A0B004DA5B2 /* ImageScrollView.m */;
+		rLen = 0;
+		rLoc = 92;
+		rType = 1;
+	};
+	58242729138B8CD9004DA5B2 /* cover-indesign_1000_1_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_1_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_1_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824272D138B8CD9004DA5B2 /* cover-indesign_1000_3_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_3_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_3_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824272E138B8CD9004DA5B2 /* cover-indesign_1000_0_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_0_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_0_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824272F138B8CD9004DA5B2 /* cover-indesign_1000_2_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_2_1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_2_1.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242730138B8CD9004DA5B2 /* cover-indesign_1000_3_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_3_1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_3_1.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242731138B8CD9004DA5B2 /* cover-indesign_1000_1_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_1_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_1_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242732138B8CD9004DA5B2 /* cover-indesign_1000_2_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_2_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_2_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242733138B8CD9004DA5B2 /* cover-indesign_1000_3_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_3_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_3_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242734138B8CD9004DA5B2 /* cover-indesign_1000_0_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_0_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_0_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242735138B8CD9004DA5B2 /* cover-indesign_1000_1_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_1000_1_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_1_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242744138B8CD9004DA5B2 /* cover-indesign_500_1_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_500_1_1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_500_1_1.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242745138B8CD9004DA5B2 /* cover-indesign_500_1_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "cover-indesign_500_1_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_500_1_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242746138B8CD9004DA5B2 /* SexySuperhero-1_1000_0_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1_1000_0_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_0_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242747138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1_1000_1_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_1_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242748138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1_1000_2_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_2_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242749138B8CD9004DA5B2 /* SexySuperhero-1_1000_3_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1_1000_3_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_3_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242758138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_4.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1_1000_1_4.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_1_4.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242759138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_4.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-1_1000_2_4.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_2_4.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824276E138B8CD9004DA5B2 /* SexySuperhero-10_1000_0_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-10_1000_0_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-10_1000_0_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824276F138B8CD9004DA5B2 /* SexySuperhero-10_1000_1_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-10_1000_1_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-10_1000_1_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242784138B8CDA004DA5B2 /* SexySuperhero-11_1000_0_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-11_1000_0_1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-11_1000_0_1.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242785138B8CDA004DA5B2 /* SexySuperhero-11_1000_2_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-11_1000_2_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-11_1000_2_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242786138B8CDA004DA5B2 /* SexySuperhero-11_1000_3_0.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-11_1000_3_0.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-11_1000_3_0.jpg";
+		sourceTree = "<absolute>";
+	};
+	582427A4138B8CDA004DA5B2 /* SexySuperhero-12_1000_1_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-12_1000_1_1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-12_1000_1_1.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242916138B8CDC004DA5B2 /* SexySuperhero-4_1000_2_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-4_1000_2_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-4_1000_2_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242930138B8CDC004DA5B2 /* SexySuperhero-5_1000_3_1.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-5_1000_3_1.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-5_1000_3_1.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242931138B8CDC004DA5B2 /* SexySuperhero-5_1000_0_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-5_1000_0_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-5_1000_0_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242932138B8CDC004DA5B2 /* SexySuperhero-5_1000_1_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-5_1000_1_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-5_1000_1_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824296D138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-7_1000_2_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_2_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824296E138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_2.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-7_1000_3_2.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_3_2.jpg";
+		sourceTree = "<absolute>";
+	};
+	5824296F138B8CDD004DA5B2 /* SexySuperhero-7_1000_1_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-7_1000_1_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_1_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242970138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-7_1000_2_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_2_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242971138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_3.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-7_1000_3_3.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_3_3.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242972138B8CDD004DA5B2 /* SexySuperhero-7_1000_0_4.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = "SexySuperhero-7_1000_0_4.jpg";
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_0_4.jpg";
+		sourceTree = "<absolute>";
+	};
+	58242C53138B8CF6004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 582426B0138B74A9004DA5B2 /* SexySuperhero-1.jpg */;
+	};
+	58242C8E138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAF71219E32D00415299 /* Lake.jpg */;
+	};
+	58242C8F138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242729138B8CD9004DA5B2 /* cover-indesign_1000_1_0.jpg */;
+	};
+	58242C90138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824272D138B8CD9004DA5B2 /* cover-indesign_1000_3_0.jpg */;
+	};
+	58242C91138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824272E138B8CD9004DA5B2 /* cover-indesign_1000_0_2.jpg */;
+	};
+	58242C92138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824272F138B8CD9004DA5B2 /* cover-indesign_1000_2_1.jpg */;
+	};
+	58242C93138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242730138B8CD9004DA5B2 /* cover-indesign_1000_3_1.jpg */;
+	};
+	58242C94138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242731138B8CD9004DA5B2 /* cover-indesign_1000_1_2.jpg */;
+	};
+	58242C95138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242732138B8CD9004DA5B2 /* cover-indesign_1000_2_2.jpg */;
+	};
+	58242C96138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242733138B8CD9004DA5B2 /* cover-indesign_1000_3_2.jpg */;
+	};
+	58242C97138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242734138B8CD9004DA5B2 /* cover-indesign_1000_0_3.jpg */;
+	};
+	58242C98138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242735138B8CD9004DA5B2 /* cover-indesign_1000_1_3.jpg */;
+	};
+	58242C99138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242759138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_4.jpg */;
+	};
+	58242C9A138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242758138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_4.jpg */;
+	};
+	58242C9B138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242749138B8CD9004DA5B2 /* SexySuperhero-1_1000_3_0.jpg */;
+	};
+	58242C9C138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242748138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_0.jpg */;
+	};
+	58242C9D138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242747138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_0.jpg */;
+	};
+	58242C9E138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242746138B8CD9004DA5B2 /* SexySuperhero-1_1000_0_0.jpg */;
+	};
+	58242C9F138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242744138B8CD9004DA5B2 /* cover-indesign_500_1_1.jpg */;
+	};
+	58242CA0138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242745138B8CD9004DA5B2 /* cover-indesign_500_1_2.jpg */;
+	};
+	58242CA1138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824276E138B8CD9004DA5B2 /* SexySuperhero-10_1000_0_3.jpg */;
+	};
+	58242CA2138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824276F138B8CD9004DA5B2 /* SexySuperhero-10_1000_1_3.jpg */;
+	};
+	58242CA3138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242784138B8CDA004DA5B2 /* SexySuperhero-11_1000_0_1.jpg */;
+	};
+	58242CA4138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242785138B8CDA004DA5B2 /* SexySuperhero-11_1000_2_0.jpg */;
+	};
+	58242CA5138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242786138B8CDA004DA5B2 /* SexySuperhero-11_1000_3_0.jpg */;
+	};
+	58242CA6138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 582427A4138B8CDA004DA5B2 /* SexySuperhero-12_1000_1_1.jpg */;
+	};
+	58242CA7138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824296D138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_2.jpg */;
+	};
+	58242CA8138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824296E138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_2.jpg */;
+	};
+	58242CA9138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5824296F138B8CDD004DA5B2 /* SexySuperhero-7_1000_1_3.jpg */;
+	};
+	58242CAA138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242970138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_3.jpg */;
+	};
+	58242CAB138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242972138B8CDD004DA5B2 /* SexySuperhero-7_1000_0_4.jpg */;
+	};
+	58242CAC138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242971138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_3.jpg */;
+	};
+	58242CAD138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242932138B8CDC004DA5B2 /* SexySuperhero-5_1000_1_3.jpg */;
+	};
+	58242CAE138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242931138B8CDC004DA5B2 /* SexySuperhero-5_1000_0_3.jpg */;
+	};
+	58242CAF138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242930138B8CDC004DA5B2 /* SexySuperhero-5_1000_3_1.jpg */;
+	};
+	58242CB0138C127A004DA5B2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 58242916138B8CDC004DA5B2 /* SexySuperhero-4_1000_2_3.jpg */;
+	};
+	58242CB1138C127A004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15C1219E42F00415299 /* TilingView.h */;
+		name = "TilingView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1492;
+		vrLoc = 0;
+	};
+	58242CB2138C127A004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15D1219E42F00415299 /* TilingView.m */;
+		name = "TilingView.m: 18";
+		rLen = 0;
+		rLoc = 450;
+		rType = 0;
+		vrLen = 761;
+		vrLoc = 0;
+	};
+	58242CB3138C127A004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E1581219E42F00415299 /* ImageScrollView.h */;
+		name = "ImageScrollView.h: 53";
+		rLen = 0;
+		rLoc = 2662;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 1801;
+	};
+	58242CB4138C127A004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E1591219E42F00415299 /* ImageScrollView.m */;
+		name = "ImageScrollView.m: 140";
+		rLen = 0;
+		rLoc = 4642;
+		rType = 0;
+		vrLen = 1856;
+		vrLoc = 3202;
+	};
+	58242CB6138C127A004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
+		name = "PhotoViewController.m: 33";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1300;
+		vrLoc = 2949;
+	};
+	58242E3A138C27CC004DA5B2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
+		name = "PhotoViewController.m: 283";
+		rLen = 0;
+		rLoc = 8497;
+		rType = 0;
+		vrLen = 1978;
+		vrLoc = 8457;
+	};
+	587052A6138B6F46007399F8 /* PhotoScroller */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhotoScroller;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	587052B0138B6F79007399F8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	587052B1138B6F79007399F8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	587052B9138B6FF2007399F8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAF51219E32D00415299 /* Default.png */;
+	};
+	587052BB138B6FF2007399F8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAFB1219E32D00415299 /* Icon-Small-50.png */;
+	};
+	587052BC138B6FF2007399F8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAFC1219E32D00415299 /* Icon-Small.png */;
+	};
+	587052BE138B6FF2007399F8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9FA8DAFE1219E32D00415299 /* Icon.png */;
+	};
+	589DB9D5138C27DC006FF003 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
+		name = "PhotoViewController.m: 283";
+		rLen = 0;
+		rLoc = 8497;
+		rType = 0;
+		vrLen = 1976;
+		vrLoc = 8459;
+	};
+	589DBA20138C2EE7006FF003 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jaspergregory/Projects/xcode/Voluptuousity/PhotoScroller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	589DBA21138C2EE7006FF003 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
+		name = "PhotoViewController.m: 18";
+		rLen = 0;
+		rLoc = 640;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 0;
+	};
+	589DBA22138C2EE7006FF003 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
+		name = "PhotoViewController.m: 187";
+		rLen = 0;
+		rLoc = 6477;
+		rType = 0;
+		vrLen = 1637;
+		vrLoc = 5311;
+	};
+	9FA8DAF71219E32D00415299 /* Lake.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = Lake.jpg;
+		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/Full Images/Lake.jpg";
+		sourceTree = "<absolute>";
+	};
+	9FA8E1581219E42F00415299 /* ImageScrollView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 845}}";
+			sepNavSelRange = "{2662, 0}";
+			sepNavVisRange = "{1801, 1218}";
+		};
+	};
+	9FA8E1591219E42F00415299 /* ImageScrollView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 2483}}";
+			sepNavSelRange = "{4642, 0}";
+			sepNavVisRange = "{3202, 1856}";
+			sepNavWindowFrame = "{{19, 0}, {957, 773}}";
+		};
+	};
+	9FA8E15B1219E42F00415299 /* PhotoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 3289}}";
+			sepNavSelRange = "{6477, 0}";
+			sepNavVisRange = "{5311, 1637}";
+		};
+	};
+	9FA8E15C1219E42F00415299 /* TilingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 728}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1492}";
+		};
+	};
+	9FA8E15D1219E42F00415299 /* TilingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {694, 1196}}";
+			sepNavSelRange = "{450, 0}";
+			sepNavVisRange = "{0, 761}";
+		};
+	};
+	CB031AE611B9507100B70177 /* ImageData.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = ImageData.plist;
+		path = /Users/jaspergregory/Projects/xcode/Voluptuousity/ImageData.plist;
+		sourceTree = "<absolute>";
+	};
+}
