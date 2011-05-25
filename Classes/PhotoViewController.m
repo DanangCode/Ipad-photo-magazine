@@ -3,6 +3,7 @@
 
 @implementation PhotoViewController
 
+
 #pragma mark -
 #pragma mark View loading and unloading
 
@@ -18,7 +19,7 @@
     pagingScrollView.contentSize = [self contentSizeForPagingScrollView];
     pagingScrollView.delegate = self;
     self.view = pagingScrollView;
-    
+	
     // Step 2: prepare to tile content
     recycledPages = [[NSMutableSet alloc] init];
     visiblePages  = [[NSMutableSet alloc] init];
@@ -169,7 +170,7 @@
 
 #pragma mark -
 #pragma mark  Frame calculations
-#define PADDING  10
+#define PADDING  0
 
 - (CGRect)frameForPagingScrollView {
     CGRect frame = [[UIScreen mainScreen] bounds];

@@ -53,7 +53,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					691,
+					554,
 					20,
 					48,
 					43,
@@ -70,78 +70,29 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 327952345;
-			PBXWorkspaceStateSaveDate = 327952345;
+			PBXPerProjectTemplateStateSaveDate = 328030762;
+			PBXWorkspaceStateSaveDate = 328030762;
 		};
 		perUserProjectItems = {
 			582426B6138B75BF004DA5B2 = 582426B6138B75BF004DA5B2 /* PBXBookmark */;
 			582426B7138B75BF004DA5B2 = 582426B7138B75BF004DA5B2 /* PBXBookmark */;
 			582426B8138B75BF004DA5B2 = 582426B8138B75BF004DA5B2 /* PBXBookmark */;
-			582426FD138B7EAB004DA5B2 = 582426FD138B7EAB004DA5B2 /* PBXTextBookmark */;
-			5824270B138B8193004DA5B2 = 5824270B138B8193004DA5B2 /* PlistBookmark */;
-			5824270C138B8193004DA5B2 = 5824270C138B8193004DA5B2 /* PlistBookmark */;
-			58242717138B8204004DA5B2 = 58242717138B8204004DA5B2 /* PBXTextBookmark */;
-			58242C53138B8CF6004DA5B2 = 58242C53138B8CF6004DA5B2 /* PBXBookmark */;
-			58242C8E138C127A004DA5B2 = 58242C8E138C127A004DA5B2 /* PBXBookmark */;
-			58242C8F138C127A004DA5B2 = 58242C8F138C127A004DA5B2 /* PBXBookmark */;
-			58242C90138C127A004DA5B2 = 58242C90138C127A004DA5B2 /* PBXBookmark */;
-			58242C91138C127A004DA5B2 = 58242C91138C127A004DA5B2 /* PBXBookmark */;
-			58242C92138C127A004DA5B2 = 58242C92138C127A004DA5B2 /* PBXBookmark */;
-			58242C93138C127A004DA5B2 = 58242C93138C127A004DA5B2 /* PBXBookmark */;
-			58242C94138C127A004DA5B2 = 58242C94138C127A004DA5B2 /* PBXBookmark */;
-			58242C95138C127A004DA5B2 = 58242C95138C127A004DA5B2 /* PBXBookmark */;
-			58242C96138C127A004DA5B2 = 58242C96138C127A004DA5B2 /* PBXBookmark */;
-			58242C97138C127A004DA5B2 = 58242C97138C127A004DA5B2 /* PBXBookmark */;
-			58242C98138C127A004DA5B2 = 58242C98138C127A004DA5B2 /* PBXBookmark */;
-			58242C99138C127A004DA5B2 = 58242C99138C127A004DA5B2 /* PBXBookmark */;
-			58242C9A138C127A004DA5B2 = 58242C9A138C127A004DA5B2 /* PBXBookmark */;
-			58242C9B138C127A004DA5B2 = 58242C9B138C127A004DA5B2 /* PBXBookmark */;
-			58242C9C138C127A004DA5B2 = 58242C9C138C127A004DA5B2 /* PBXBookmark */;
-			58242C9D138C127A004DA5B2 = 58242C9D138C127A004DA5B2 /* PBXBookmark */;
-			58242C9E138C127A004DA5B2 = 58242C9E138C127A004DA5B2 /* PBXBookmark */;
-			58242C9F138C127A004DA5B2 = 58242C9F138C127A004DA5B2 /* PBXBookmark */;
-			58242CA0138C127A004DA5B2 = 58242CA0138C127A004DA5B2 /* PBXBookmark */;
-			58242CA1138C127A004DA5B2 = 58242CA1138C127A004DA5B2 /* PBXBookmark */;
-			58242CA2138C127A004DA5B2 = 58242CA2138C127A004DA5B2 /* PBXBookmark */;
-			58242CA3138C127A004DA5B2 = 58242CA3138C127A004DA5B2 /* PBXBookmark */;
-			58242CA4138C127A004DA5B2 = 58242CA4138C127A004DA5B2 /* PBXBookmark */;
-			58242CA5138C127A004DA5B2 = 58242CA5138C127A004DA5B2 /* PBXBookmark */;
-			58242CA6138C127A004DA5B2 = 58242CA6138C127A004DA5B2 /* PBXBookmark */;
-			58242CA7138C127A004DA5B2 = 58242CA7138C127A004DA5B2 /* PBXBookmark */;
-			58242CA8138C127A004DA5B2 = 58242CA8138C127A004DA5B2 /* PBXBookmark */;
-			58242CA9138C127A004DA5B2 = 58242CA9138C127A004DA5B2 /* PBXBookmark */;
-			58242CAA138C127A004DA5B2 = 58242CAA138C127A004DA5B2 /* PBXBookmark */;
-			58242CAB138C127A004DA5B2 = 58242CAB138C127A004DA5B2 /* PBXBookmark */;
-			58242CAC138C127A004DA5B2 = 58242CAC138C127A004DA5B2 /* PBXBookmark */;
-			58242CAD138C127A004DA5B2 = 58242CAD138C127A004DA5B2 /* PBXBookmark */;
-			58242CAE138C127A004DA5B2 = 58242CAE138C127A004DA5B2 /* PBXBookmark */;
-			58242CAF138C127A004DA5B2 = 58242CAF138C127A004DA5B2 /* PBXBookmark */;
-			58242CB0138C127A004DA5B2 = 58242CB0138C127A004DA5B2 /* PBXBookmark */;
 			58242CB1138C127A004DA5B2 = 58242CB1138C127A004DA5B2 /* PBXTextBookmark */;
 			58242CB2138C127A004DA5B2 = 58242CB2138C127A004DA5B2 /* PBXTextBookmark */;
 			58242CB3138C127A004DA5B2 = 58242CB3138C127A004DA5B2 /* PBXTextBookmark */;
-			58242CB4138C127A004DA5B2 = 58242CB4138C127A004DA5B2 /* PBXTextBookmark */;
-			58242CB6138C127A004DA5B2 = 58242CB6138C127A004DA5B2 /* PBXTextBookmark */;
-			58242E3A138C27CC004DA5B2 = 58242E3A138C27CC004DA5B2 /* PBXTextBookmark */;
 			587052B9138B6FF2007399F8 = 587052B9138B6FF2007399F8 /* PBXBookmark */;
 			587052BB138B6FF2007399F8 = 587052BB138B6FF2007399F8 /* PBXBookmark */;
 			587052BC138B6FF2007399F8 = 587052BC138B6FF2007399F8 /* PBXBookmark */;
 			587052BE138B6FF2007399F8 = 587052BE138B6FF2007399F8 /* PBXBookmark */;
-			589DB9D5138C27DC006FF003 /* PBXTextBookmark */ = 589DB9D5138C27DC006FF003 /* PBXTextBookmark */;
-			589DBA20138C2EE7006FF003 /* PlistBookmark */ = 589DBA20138C2EE7006FF003 /* PlistBookmark */;
-			589DBA21138C2EE7006FF003 /* PBXTextBookmark */ = 589DBA21138C2EE7006FF003 /* PBXTextBookmark */;
-			589DBA22138C2EE7006FF003 /* PBXTextBookmark */ = 589DBA22138C2EE7006FF003 /* PBXTextBookmark */;
+			589DBA20138C2EE7006FF003 = 589DBA20138C2EE7006FF003 /* PlistBookmark */;
+			589DBA6A138C42A2006FF003 = 589DBA6A138C42A2006FF003 /* PBXTextBookmark */;
+			589DBA6B138C42A2006FF003 = 589DBA6B138C42A2006FF003 /* PBXTextBookmark */;
+			589DBB24138D59A1006FF003 = 589DBB24138D59A1006FF003 /* PBXTextBookmark */;
+			589DBB33138D5A1F006FF003 = 589DBB33138D5A1F006FF003 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 587052B0138B6F79007399F8 /* Source Control */;
 		userBuildSettings = {
 		};
-	};
-	582426B0138B74A9004DA5B2 /* SexySuperhero-1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/Full Images/SexySuperhero-1.jpg";
-		sourceTree = "<absolute>";
 	};
 	582426B6138B75BF004DA5B2 /* PBXBookmark */ = {
 		isa = PBXBookmark;
@@ -173,13 +124,6 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 0;
 	};
-	582426D8138B7A0B004DA5B2 /* ImageScrollView.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = ImageScrollView.m;
-		path = /Users/jaspergregory/projects/xcode/Voluptuousity/Classes/ImageScrollView.m;
-		sourceTree = "<absolute>";
-	};
 	582426ED138B7CB3004DA5B2 /* TilingView.m:76 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
@@ -198,42 +142,6 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
-	582426FD138B7EAB004DA5B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 582426FE138B7EAB004DA5B2 /* TilingView.m */;
-		rLen = 0;
-		rLoc = 19;
-		rType = 1;
-	};
-	582426FE138B7EAB004DA5B2 /* TilingView.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = TilingView.m;
-		path = /Users/jaspergregory/projects/xcode/Voluptuousity/Classes/TilingView.m;
-		sourceTree = "<absolute>";
-	};
-	5824270B138B8193004DA5B2 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/jaspergregory/Projects/xcode/Voluptuousity/PhotoScroller-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	5824270C138B8193004DA5B2 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = CB031AE611B9507100B70177 /* ImageData.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/jaspergregory/Projects/xcode/Voluptuousity/ImageData.plist;
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
 	5824270F138B81B0004DA5B2 /* TilingView.m:75 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
@@ -251,395 +159,6 @@
 		modificationTime = 327909880.872906;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
-	};
-	58242717138B8204004DA5B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 582426D8138B7A0B004DA5B2 /* ImageScrollView.m */;
-		rLen = 0;
-		rLoc = 92;
-		rType = 1;
-	};
-	58242729138B8CD9004DA5B2 /* cover-indesign_1000_1_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_1_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_1_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824272D138B8CD9004DA5B2 /* cover-indesign_1000_3_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_3_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_3_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824272E138B8CD9004DA5B2 /* cover-indesign_1000_0_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_0_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_0_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824272F138B8CD9004DA5B2 /* cover-indesign_1000_2_1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_2_1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_2_1.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242730138B8CD9004DA5B2 /* cover-indesign_1000_3_1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_3_1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_3_1.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242731138B8CD9004DA5B2 /* cover-indesign_1000_1_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_1_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_1_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242732138B8CD9004DA5B2 /* cover-indesign_1000_2_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_2_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_2_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242733138B8CD9004DA5B2 /* cover-indesign_1000_3_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_3_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_3_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242734138B8CD9004DA5B2 /* cover-indesign_1000_0_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_0_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_0_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242735138B8CD9004DA5B2 /* cover-indesign_1000_1_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_1000_1_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_1000_1_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242744138B8CD9004DA5B2 /* cover-indesign_500_1_1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_500_1_1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_500_1_1.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242745138B8CD9004DA5B2 /* cover-indesign_500_1_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "cover-indesign_500_1_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/cover-indesign_500_1_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242746138B8CD9004DA5B2 /* SexySuperhero-1_1000_0_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1_1000_0_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_0_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242747138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1_1000_1_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_1_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242748138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1_1000_2_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_2_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242749138B8CD9004DA5B2 /* SexySuperhero-1_1000_3_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1_1000_3_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_3_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242758138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_4.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1_1000_1_4.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_1_4.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242759138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_4.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-1_1000_2_4.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-1_1000_2_4.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824276E138B8CD9004DA5B2 /* SexySuperhero-10_1000_0_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-10_1000_0_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-10_1000_0_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824276F138B8CD9004DA5B2 /* SexySuperhero-10_1000_1_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-10_1000_1_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-10_1000_1_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242784138B8CDA004DA5B2 /* SexySuperhero-11_1000_0_1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-11_1000_0_1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-11_1000_0_1.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242785138B8CDA004DA5B2 /* SexySuperhero-11_1000_2_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-11_1000_2_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-11_1000_2_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242786138B8CDA004DA5B2 /* SexySuperhero-11_1000_3_0.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-11_1000_3_0.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-11_1000_3_0.jpg";
-		sourceTree = "<absolute>";
-	};
-	582427A4138B8CDA004DA5B2 /* SexySuperhero-12_1000_1_1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-12_1000_1_1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-12_1000_1_1.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242916138B8CDC004DA5B2 /* SexySuperhero-4_1000_2_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-4_1000_2_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-4_1000_2_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242930138B8CDC004DA5B2 /* SexySuperhero-5_1000_3_1.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-5_1000_3_1.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-5_1000_3_1.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242931138B8CDC004DA5B2 /* SexySuperhero-5_1000_0_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-5_1000_0_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-5_1000_0_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242932138B8CDC004DA5B2 /* SexySuperhero-5_1000_1_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-5_1000_1_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-5_1000_1_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824296D138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-7_1000_2_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_2_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824296E138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_2.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-7_1000_3_2.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_3_2.jpg";
-		sourceTree = "<absolute>";
-	};
-	5824296F138B8CDD004DA5B2 /* SexySuperhero-7_1000_1_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-7_1000_1_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_1_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242970138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-7_1000_2_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_2_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242971138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_3.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-7_1000_3_3.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_3_3.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242972138B8CDD004DA5B2 /* SexySuperhero-7_1000_0_4.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = "SexySuperhero-7_1000_0_4.jpg";
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/ImageTiles/SexySuperhero-7_1000_0_4.jpg";
-		sourceTree = "<absolute>";
-	};
-	58242C53138B8CF6004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 582426B0138B74A9004DA5B2 /* SexySuperhero-1.jpg */;
-	};
-	58242C8E138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 9FA8DAF71219E32D00415299 /* Lake.jpg */;
-	};
-	58242C8F138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242729138B8CD9004DA5B2 /* cover-indesign_1000_1_0.jpg */;
-	};
-	58242C90138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824272D138B8CD9004DA5B2 /* cover-indesign_1000_3_0.jpg */;
-	};
-	58242C91138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824272E138B8CD9004DA5B2 /* cover-indesign_1000_0_2.jpg */;
-	};
-	58242C92138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824272F138B8CD9004DA5B2 /* cover-indesign_1000_2_1.jpg */;
-	};
-	58242C93138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242730138B8CD9004DA5B2 /* cover-indesign_1000_3_1.jpg */;
-	};
-	58242C94138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242731138B8CD9004DA5B2 /* cover-indesign_1000_1_2.jpg */;
-	};
-	58242C95138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242732138B8CD9004DA5B2 /* cover-indesign_1000_2_2.jpg */;
-	};
-	58242C96138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242733138B8CD9004DA5B2 /* cover-indesign_1000_3_2.jpg */;
-	};
-	58242C97138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242734138B8CD9004DA5B2 /* cover-indesign_1000_0_3.jpg */;
-	};
-	58242C98138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242735138B8CD9004DA5B2 /* cover-indesign_1000_1_3.jpg */;
-	};
-	58242C99138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242759138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_4.jpg */;
-	};
-	58242C9A138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242758138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_4.jpg */;
-	};
-	58242C9B138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242749138B8CD9004DA5B2 /* SexySuperhero-1_1000_3_0.jpg */;
-	};
-	58242C9C138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242748138B8CD9004DA5B2 /* SexySuperhero-1_1000_2_0.jpg */;
-	};
-	58242C9D138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242747138B8CD9004DA5B2 /* SexySuperhero-1_1000_1_0.jpg */;
-	};
-	58242C9E138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242746138B8CD9004DA5B2 /* SexySuperhero-1_1000_0_0.jpg */;
-	};
-	58242C9F138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242744138B8CD9004DA5B2 /* cover-indesign_500_1_1.jpg */;
-	};
-	58242CA0138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242745138B8CD9004DA5B2 /* cover-indesign_500_1_2.jpg */;
-	};
-	58242CA1138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824276E138B8CD9004DA5B2 /* SexySuperhero-10_1000_0_3.jpg */;
-	};
-	58242CA2138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824276F138B8CD9004DA5B2 /* SexySuperhero-10_1000_1_3.jpg */;
-	};
-	58242CA3138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242784138B8CDA004DA5B2 /* SexySuperhero-11_1000_0_1.jpg */;
-	};
-	58242CA4138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242785138B8CDA004DA5B2 /* SexySuperhero-11_1000_2_0.jpg */;
-	};
-	58242CA5138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242786138B8CDA004DA5B2 /* SexySuperhero-11_1000_3_0.jpg */;
-	};
-	58242CA6138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 582427A4138B8CDA004DA5B2 /* SexySuperhero-12_1000_1_1.jpg */;
-	};
-	58242CA7138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824296D138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_2.jpg */;
-	};
-	58242CA8138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824296E138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_2.jpg */;
-	};
-	58242CA9138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5824296F138B8CDD004DA5B2 /* SexySuperhero-7_1000_1_3.jpg */;
-	};
-	58242CAA138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242970138B8CDD004DA5B2 /* SexySuperhero-7_1000_2_3.jpg */;
-	};
-	58242CAB138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242972138B8CDD004DA5B2 /* SexySuperhero-7_1000_0_4.jpg */;
-	};
-	58242CAC138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242971138B8CDD004DA5B2 /* SexySuperhero-7_1000_3_3.jpg */;
-	};
-	58242CAD138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242932138B8CDC004DA5B2 /* SexySuperhero-5_1000_1_3.jpg */;
-	};
-	58242CAE138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242931138B8CDC004DA5B2 /* SexySuperhero-5_1000_0_3.jpg */;
-	};
-	58242CAF138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242930138B8CDC004DA5B2 /* SexySuperhero-5_1000_3_1.jpg */;
-	};
-	58242CB0138C127A004DA5B2 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 58242916138B8CDC004DA5B2 /* SexySuperhero-4_1000_2_3.jpg */;
 	};
 	58242CB1138C127A004DA5B2 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -670,36 +189,6 @@
 		rType = 0;
 		vrLen = 1218;
 		vrLoc = 1801;
-	};
-	58242CB4138C127A004DA5B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9FA8E1591219E42F00415299 /* ImageScrollView.m */;
-		name = "ImageScrollView.m: 140";
-		rLen = 0;
-		rLoc = 4642;
-		rType = 0;
-		vrLen = 1856;
-		vrLoc = 3202;
-	};
-	58242CB6138C127A004DA5B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
-		name = "PhotoViewController.m: 33";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1300;
-		vrLoc = 2949;
-	};
-	58242E3A138C27CC004DA5B2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
-		name = "PhotoViewController.m: 283";
-		rLen = 0;
-		rLoc = 8497;
-		rType = 0;
-		vrLen = 1978;
-		vrLoc = 8457;
 	};
 	587052A6138B6F46007399F8 /* PhotoScroller */ = {
 		isa = PBXExecutable;
@@ -763,16 +252,6 @@
 		isa = PBXBookmark;
 		fRef = 9FA8DAFE1219E32D00415299 /* Icon.png */;
 	};
-	589DB9D5138C27DC006FF003 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
-		name = "PhotoViewController.m: 283";
-		rLen = 0;
-		rLoc = 8497;
-		rType = 0;
-		vrLen = 1976;
-		vrLoc = 8459;
-	};
 	589DBA20138C2EE7006FF003 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
@@ -782,34 +261,47 @@
 		);
 		name = "/Users/jaspergregory/Projects/xcode/Voluptuousity/PhotoScroller-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
-	589DBA21138C2EE7006FF003 /* PBXTextBookmark */ = {
+	589DBA6A138C42A2006FF003 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
-		name = "PhotoViewController.m: 18";
+		fRef = 9FA8E1591219E42F00415299 /* ImageScrollView.m */;
+		name = "ImageScrollView.m: 83";
 		rLen = 0;
-		rLoc = 640;
+		rLoc = 2330;
 		rType = 0;
-		vrLen = 1199;
+		vrLen = 1134;
+		vrLoc = 1717;
+	};
+	589DBA6B138C42A2006FF003 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15A1219E42F00415299 /* PhotoViewController.h */;
+		name = "PhotoViewController.h: 18";
+		rLen = 0;
+		rLoc = 638;
+		rType = 0;
+		vrLen = 1176;
 		vrLoc = 0;
 	};
-	589DBA22138C2EE7006FF003 /* PBXTextBookmark */ = {
+	589DBB24138D59A1006FF003 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
-		name = "PhotoViewController.m: 187";
+		name = "PhotoViewController.m: 5";
 		rLen = 0;
-		rLoc = 6477;
+		rLoc = 97;
 		rType = 0;
-		vrLen = 1637;
-		vrLoc = 5311;
+		vrLen = 1422;
+		vrLoc = 1125;
 	};
-	9FA8DAF71219E32D00415299 /* Lake.jpg */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = image.jpeg;
-		name = Lake.jpg;
-		path = "/Users/jaspergregory/Projects/xcode/Voluptuousity/Images/Full Images/Lake.jpg";
-		sourceTree = "<absolute>";
+	589DBB33138D5A1F006FF003 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */;
+		name = "PhotoViewController.m: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 1125;
 	};
 	9FA8E1581219E42F00415299 /* ImageScrollView.h */ = {
 		uiCtxt = {
@@ -820,17 +312,25 @@
 	};
 	9FA8E1591219E42F00415299 /* ImageScrollView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {894, 2483}}";
-			sepNavSelRange = "{4642, 0}";
-			sepNavVisRange = "{3202, 1856}";
-			sepNavWindowFrame = "{{19, 0}, {957, 773}}";
+			sepNavIntBoundsRect = "{{0, 0}, {824, 2587}}";
+			sepNavSelRange = "{2330, 0}";
+			sepNavVisRange = "{2119, 494}";
+			sepNavWindowFrame = "{{153, 5}, {957, 773}}";
+		};
+	};
+	9FA8E15A1219E42F00415299 /* PhotoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 519}}";
+			sepNavSelRange = "{638, 0}";
+			sepNavVisRange = "{0, 1176}";
 		};
 	};
 	9FA8E15B1219E42F00415299 /* PhotoViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {922, 3289}}";
-			sepNavSelRange = "{6477, 0}";
-			sepNavVisRange = "{5311, 1637}";
+			sepNavIntBoundsRect = "{{0, 0}, {740, 3484}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{1125, 1424}";
+			sepNavWindowFrame = "{{19, 0}, {957, 773}}";
 		};
 	};
 	9FA8E15C1219E42F00415299 /* TilingView.h */ = {
@@ -846,13 +346,5 @@
 			sepNavSelRange = "{450, 0}";
 			sepNavVisRange = "{0, 761}";
 		};
-	};
-	CB031AE611B9507100B70177 /* ImageData.plist */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = text.plist.xml;
-		name = ImageData.plist;
-		path = /Users/jaspergregory/Projects/xcode/Voluptuousity/ImageData.plist;
-		sourceTree = "<absolute>";
 	};
 }
