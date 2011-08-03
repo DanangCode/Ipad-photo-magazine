@@ -9,7 +9,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = distribution;
 		activeExecutable = 58B4B7D3138DC9E000C07D3E /* Voluptuousity Magazine vol 01 */;
-		activeSDKPreference = iphoneos4.2;
+		activeSDKPreference = iphonesimulator4.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Voluptuousity Magazine vol 01 */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* Voluptuousity Magazine vol 01 */,
@@ -81,7 +81,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					554,
+					335,
 					20,
 					48,
 					43,
@@ -156,38 +156,38 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 328059360;
-			PBXWorkspaceStateSaveDate = 328059360;
+			PBXPerProjectTemplateStateSaveDate = 328757285;
+			PBXWorkspaceStateSaveDate = 328757285;
 		};
 		perUserProjectItems = {
-			58242CB1138C127A004DA5B2 = 58242CB1138C127A004DA5B2 /* PBXTextBookmark */;
-			5855A925138DC847006B8EE6 = 5855A925138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A926138DC847006B8EE6 = 5855A926138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A927138DC847006B8EE6 = 5855A927138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A928138DC847006B8EE6 = 5855A928138DC847006B8EE6 /* PBXBookmark */;
-			5855A929138DC847006B8EE6 = 5855A929138DC847006B8EE6 /* PBXBookmark */;
-			5855A92A138DC847006B8EE6 = 5855A92A138DC847006B8EE6 /* PBXBookmark */;
-			5855A92B138DC847006B8EE6 = 5855A92B138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A92C138DC847006B8EE6 = 5855A92C138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A92D138DC847006B8EE6 = 5855A92D138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A92E138DC847006B8EE6 = 5855A92E138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A92F138DC847006B8EE6 = 5855A92F138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A930138DC847006B8EE6 = 5855A930138DC847006B8EE6 /* PBXBookmark */;
-			5855A931138DC847006B8EE6 = 5855A931138DC847006B8EE6 /* PBXBookmark */;
-			5855A932138DC847006B8EE6 = 5855A932138DC847006B8EE6 /* PBXBookmark */;
-			5855A933138DC847006B8EE6 = 5855A933138DC847006B8EE6 /* PBXBookmark */;
-			5855A934138DC847006B8EE6 = 5855A934138DC847006B8EE6 /* PBXBookmark */;
-			5855A935138DC847006B8EE6 = 5855A935138DC847006B8EE6 /* PBXBookmark */;
-			5855A936138DC847006B8EE6 = 5855A936138DC847006B8EE6 /* PBXBookmark */;
-			5855A937138DC847006B8EE6 = 5855A937138DC847006B8EE6 /* PBXBookmark */;
-			5855A938138DC847006B8EE6 = 5855A938138DC847006B8EE6 /* PBXBookmark */;
-			5855A939138DC847006B8EE6 = 5855A939138DC847006B8EE6 /* PBXBookmark */;
-			5855A93A138DC847006B8EE6 = 5855A93A138DC847006B8EE6 /* PBXBookmark */;
-			5855A93B138DC847006B8EE6 = 5855A93B138DC847006B8EE6 /* PlistBookmark */;
-			5855A93C138DC847006B8EE6 = 5855A93C138DC847006B8EE6 /* PBXTextBookmark */;
-			5855A93D138DC847006B8EE6 = 5855A93D138DC847006B8EE6 /* PlistBookmark */;
-			5855A93E138DC847006B8EE6 = 5855A93E138DC847006B8EE6 /* PlistBookmark */;
-			5855A93F138DC847006B8EE6 = 5855A93F138DC847006B8EE6 /* PlistBookmark */;
+			58242CB1138C127A004DA5B2 /* PBXTextBookmark */ = 58242CB1138C127A004DA5B2 /* PBXTextBookmark */;
+			582819F2139A992000D81F11 /* PlistBookmark */ = 582819F2139A992000D81F11 /* PlistBookmark */;
+			5855A925138DC847006B8EE6 /* PBXTextBookmark */ = 5855A925138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A926138DC847006B8EE6 /* PBXTextBookmark */ = 5855A926138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A927138DC847006B8EE6 /* PBXTextBookmark */ = 5855A927138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A928138DC847006B8EE6 /* PBXBookmark */ = 5855A928138DC847006B8EE6 /* PBXBookmark */;
+			5855A929138DC847006B8EE6 /* PBXBookmark */ = 5855A929138DC847006B8EE6 /* PBXBookmark */;
+			5855A92A138DC847006B8EE6 /* PBXBookmark */ = 5855A92A138DC847006B8EE6 /* PBXBookmark */;
+			5855A92B138DC847006B8EE6 /* PBXTextBookmark */ = 5855A92B138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A92C138DC847006B8EE6 /* PBXTextBookmark */ = 5855A92C138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A92D138DC847006B8EE6 /* PBXTextBookmark */ = 5855A92D138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A92E138DC847006B8EE6 /* PBXTextBookmark */ = 5855A92E138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A92F138DC847006B8EE6 /* PBXTextBookmark */ = 5855A92F138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A930138DC847006B8EE6 /* PBXBookmark */ = 5855A930138DC847006B8EE6 /* PBXBookmark */;
+			5855A931138DC847006B8EE6 /* PBXBookmark */ = 5855A931138DC847006B8EE6 /* PBXBookmark */;
+			5855A932138DC847006B8EE6 /* PBXBookmark */ = 5855A932138DC847006B8EE6 /* PBXBookmark */;
+			5855A933138DC847006B8EE6 /* PBXBookmark */ = 5855A933138DC847006B8EE6 /* PBXBookmark */;
+			5855A934138DC847006B8EE6 /* PBXBookmark */ = 5855A934138DC847006B8EE6 /* PBXBookmark */;
+			5855A935138DC847006B8EE6 /* PBXBookmark */ = 5855A935138DC847006B8EE6 /* PBXBookmark */;
+			5855A936138DC847006B8EE6 /* PBXBookmark */ = 5855A936138DC847006B8EE6 /* PBXBookmark */;
+			5855A937138DC847006B8EE6 /* PBXBookmark */ = 5855A937138DC847006B8EE6 /* PBXBookmark */;
+			5855A938138DC847006B8EE6 /* PBXBookmark */ = 5855A938138DC847006B8EE6 /* PBXBookmark */;
+			5855A939138DC847006B8EE6 /* PBXBookmark */ = 5855A939138DC847006B8EE6 /* PBXBookmark */;
+			5855A93A138DC847006B8EE6 /* PBXBookmark */ = 5855A93A138DC847006B8EE6 /* PBXBookmark */;
+			5855A93B138DC847006B8EE6 /* PlistBookmark */ = 5855A93B138DC847006B8EE6 /* PlistBookmark */;
+			5855A93C138DC847006B8EE6 /* PBXTextBookmark */ = 5855A93C138DC847006B8EE6 /* PBXTextBookmark */;
+			5855A93D138DC847006B8EE6 /* PlistBookmark */ = 5855A93D138DC847006B8EE6 /* PlistBookmark */;
+			58B4B7EE139045D100C07D3E /* PlistBookmark */ = 58B4B7EE139045D100C07D3E /* PlistBookmark */;
 		};
 		sourceControlManager = 587052B0138B6F79007399F8 /* Source Control */;
 		userBuildSettings = {
@@ -263,6 +263,17 @@
 		rType = 0;
 		vrLen = 1492;
 		vrLoc = 0;
+	};
+	582819F2139A992000D81F11 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jaspergregory/projects/xcode/Ipad-photo-magazine/PhotoScroller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
 	};
 	5855A925138DC847006B8EE6 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -432,28 +443,6 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	5855A93E138DC847006B8EE6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/jaspergregory/Projects/xcode/Ipad-photo-magazine/PhotoScroller-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	5855A93F138DC847006B8EE6 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/jaspergregory/Projects/xcode/Ipad-photo-magazine/PhotoScroller-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
 	587052B0138B6F79007399F8 /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
@@ -484,6 +473,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -491,9 +481,22 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = "Voluptuousity Magazine vol 01";
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
+	};
+	58B4B7EE139045D100C07D3E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = CB6BD26C11FF73C200FF3374 /* PhotoScroller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jaspergregory/Projects/xcode/Ipad-photo-magazine/PhotoScroller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
 	};
 	9FA8E1561219E42F00415299 /* AppDelegate.h */ = {
 		uiCtxt = {
