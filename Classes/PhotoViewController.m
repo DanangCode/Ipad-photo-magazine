@@ -7,9 +7,6 @@
 #pragma mark -
 #pragma mark View loading and unloading
 
-
-
-
 - (void)loadView 
 {    
     // Step 1: make the outer paging scroll view

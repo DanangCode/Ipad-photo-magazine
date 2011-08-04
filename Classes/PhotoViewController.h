@@ -7,12 +7,17 @@
     
     NSMutableSet *recycledPages;
     NSMutableSet *visiblePages;
+	UILabel *purchaseLabel;
+	UIButton *purchaseButton;
 
     // these values are stored off before we start rotation so we adjust our content offset appropriately during rotation
     int           firstVisiblePageIndexBeforeRotation;
     CGFloat       percentScrolledIntoFirstVisiblePage;
 }
+@property (nonatomic, retain) IBOutlet UILabel *purchaseLabel;
+@property (nonatomic, retain) IBOutlet UIButton *purchaseButton;
 
+- (IBAction)buttonPressed:(id)sender;
 - (void)configurePage:(ImageScrollView *)page forIndex:(NSUInteger)index;
 - (BOOL)isDisplayingPageForIndex:(NSUInteger)index;
 
