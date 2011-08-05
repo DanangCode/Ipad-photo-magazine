@@ -1,7 +1,7 @@
 This project is the simplest thing that could possibly work for an Ipad Book. It is a PhotoScroller using an Apple Sample project.
 The Photoscroller is a carousel which always keeps three photos in memory. The last, current, and next photos.
 
-It includes an xcode 4 project file and will run as is. This book has been accepted into the Appstore so it is 'proven' technology.
+It includes an xcode 4 project file and will run as is. This book has been accepted into the Appstore http://itunes.apple.com/us/app/voluptuousity-magazine-1. so it is 'proven' technology.
 
 To change the book simply replace the pictures in the Images/FullImages directory with your own images and adjust the metadata in ImageData.plist.
 
