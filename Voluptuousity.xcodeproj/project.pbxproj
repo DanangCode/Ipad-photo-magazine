@@ -51,7 +51,6 @@
 		9FA8E1601219E42F00415299 /* PhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FA8E15B1219E42F00415299 /* PhotoViewController.m */; };
 		9FA8E1611219E42F00415299 /* TilingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FA8E15D1219E42F00415299 /* TilingView.m */; };
 		C9A438F211ADDDAC00EF1D55 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9A438F111ADDDAC00EF1D55 /* QuartzCore.framework */; };
-		CB6BD25011FF733900FF3374 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = CB6BD24311FF733900FF3374 /* ReadMe.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -297,7 +296,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB6BD25011FF733900FF3374 /* ReadMe.txt in Resources */,
 				9FA8DAF21219E2F500415299 /* MainWindow.xib in Resources */,
 				9FA8DAF31219E2F500415299 /* PhotoViewController.xib in Resources */,
 				9FA8DE231219E32D00415299 /* Default.png in Resources */,
@@ -383,6 +381,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = PhotoScroller_Prefix.pch;
 				INFOPLIST_FILE = "PhotoScroller-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				PRODUCT_NAME = PhotoScroller;
 			};
 			name = Debug;
@@ -395,6 +394,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = PhotoScroller_Prefix.pch;
 				INFOPLIST_FILE = "PhotoScroller-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				PRODUCT_NAME = PhotoScroller;
 				VALIDATE_PRODUCT = YES;
 			};
