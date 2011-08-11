@@ -1,6 +1,6 @@
 
 #import "ImageScrollView.h"
-#import "TilingView.h"
+//#import "TilingView.h"
 
 @implementation ImageScrollView
 @synthesize index;
@@ -49,12 +49,12 @@
     
     imageView.frame = frameToCenter;
     
-    if ([imageView isKindOfClass:[TilingView class]]) {
-        // to handle the interaction between CATiledLayer and high resolution screens, we need to manually set the
-        // tiling view's contentScaleFactor to 1.0. (If we omitted this, it would be 2.0 on high resolution screens,
-        // which would cause the CATiledLayer to ask us for tiles of the wrong scales.)
-        imageView.contentScaleFactor = 1.0;
-    }
+//    if ([imageView isKindOfClass:[TilingView class]]) {
+//        // to handle the interaction between CATiledLayer and high resolution screens, we need to manually set the
+//        // tiling view's contentScaleFactor to 1.0. (If we omitted this, it would be 2.0 on high resolution screens,
+//        // which would cause the CATiledLayer to ask us for tiles of the wrong scales.)
+//        imageView.contentScaleFactor = 1.0;
+//    }
 }
 
 #pragma mark -
@@ -87,25 +87,6 @@
     self.zoomScale = self.minimumZoomScale;
 }
 
-- (void)displayTiledImageNamed:(NSString *)imageName size:(CGSize)imageSize
-{
-    // clear the previous imageView
-    [imageView removeFromSuperview];
-    [imageView release];
-    imageView = nil;
-    
-    // reset our zoomScale to 1.0 before doing any further calculations
-    self.zoomScale = 1.0;
-    
-    // make a new TilingView for the new image
-    imageView = [[TilingView alloc] initWithImageName:imageName size:imageSize];
-    [(TilingView *)imageView setAnnotates:YES]; // ** remove this line to remove the white tile grid **
-    [self addSubview:imageView];
-    
-    self.contentSize = imageSize;
-    [self setMaxMinZoomScalesForCurrentBounds];
-    self.zoomScale = self.minimumZoomScale;
-}
 
 - (void)setMaxMinZoomScalesForCurrentBounds
 {

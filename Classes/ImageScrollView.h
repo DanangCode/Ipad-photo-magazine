@@ -54,7 +54,7 @@
 @property (assign) NSUInteger index;
 
 - (void)displayImage:(UIImage *)image;
-- (void)displayTiledImageNamed:(NSString *)imageName size:(CGSize)imageSize;
+//- (void)displayTiledImageNamed:(NSString *)imageName size:(CGSize)imageSize;
 - (void)setMaxMinZoomScalesForCurrentBounds;
 
 - (CGPoint)pointToCenterAfterRotation;

@@ -109,8 +109,7 @@
     // Use tiled images
     //[page displayTiledImageNamed:[self imageNameAtIndex:index] size:[self imageSizeAtIndex:index]];
     
-    // To use full images instead of tiled images, replace the "displayTiledImageNamed:" call
-    // above by the following line:
+    // use full images 
 	[page displayImage:[self imageAtIndex:index]];
 }
 
@@ -174,8 +173,9 @@
 
 - (CGRect)frameForPagingScrollView {
     CGRect frame = [[UIScreen mainScreen] bounds];
-    frame.origin.x -= PADDING;
-    frame.size.width += (2 * PADDING);
+  //refactored to remove padding
+    //  frame.origin.x -= PADDING;
+  //  frame.size.width += (2 * PADDING);
     return frame;
 }
 
@@ -186,8 +186,8 @@
     // because it has a rotation transform applied.
     CGRect bounds = pagingScrollView.bounds;
     CGRect pageFrame = bounds;
-    pageFrame.size.width -= (2 * PADDING);
-    pageFrame.origin.x = (bounds.size.width * index) + PADDING;
+   // pageFrame.size.width -= (2 * PADDING);
+    pageFrame.origin.x = (bounds.size.width * index); // + PADDING;
     return pageFrame;
 }
 
@@ -207,7 +207,8 @@
         // read the filenames/sizes out of a plist in the app bundle
         NSString *path = [[NSBundle mainBundle] pathForResource:@"ImageData" ofType:@"plist"];
         NSData *plistData = [NSData dataWithContentsOfFile:path];
-        NSString *error; NSPropertyListFormat format;
+        NSString *error; 
+        NSPropertyListFormat format;
         __imageData = [[NSPropertyListSerialization propertyListFromData:plistData
                                                         mutabilityOption:NSPropertyListImmutable
                                                                   format:&format
